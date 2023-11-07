@@ -3,8 +3,18 @@
 </h1>
 
 <p align='center'>
-	<img src='./Assets/Images/EEPROM.enc'>
+	<img src='../Assets/Images/EEPROM.enc'>
 </p>
+
+<h2 align='center'>Aturan Commit untuk GitHub EEPROM</h2>
+
+
+Aturan-aturan yang harus diikuti ketika ingin melakukan commit pada project di GitHub EEPROM Polinema : 
+- Isi pesan commit dengan singkat dan efektif.
+- Gunakan awalan `feat:` bila menandakan penambahan fitur baru atau melakukan perubahan signifikan.
+- Gunakan awalan `fix:` bila menandakan perbaikan bug atau kesalahan.
+- Gunakan awalan `docs:` bila menandakan perubahan pada dokumentasi.
+- Gunakan awalan `chore:` bila menandakan penambahan aset atau menghapus sesuatu.
 
 <h2 align='center'>About EEPROM Polinema</h2>
 
