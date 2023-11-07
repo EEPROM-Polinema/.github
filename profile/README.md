@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-	<img src='../Assets/Images/EEPROM.enc'>
+	<img src='./Assets/Images/EEPROM.enc'>
 </p>
 
 <h2 align='center'>Aturan Commit untuk GitHub EEPROM</h2>
