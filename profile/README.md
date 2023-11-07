@@ -54,27 +54,27 @@ Etika penggunaan GitHub dalam Komunitas EEPROM tidak hanya tentang mengelola kod
 
 <b>Transparansi:</b>
 
-a. Pastikan untuk menjadwalkan pertemuan rutin dan mengunggah catatan rapat ke repositori organisasi agar anggota tim dapat mengaksesnya.
+- Pastikan untuk menjadwalkan pertemuan rutin dan mengunggah catatan rapat ke repositori organisasi agar anggota tim dapat mengaksesnya.
 
-b. Buka kode sebanyak mungkin agar anggota organisasi atau pengembang luar dapat memberikan kontribusi atau meninjau kode.
+- Buka kode sebanyak mungkin agar anggota organisasi atau pengembang luar dapat memberikan kontribusi atau meninjau kode.
 
 <b>Kolaborasi Terbuka:</b>
 
-a. Sambut kontribusi dari pengembang eksternal, jika memungkinkan, dan berikan umpan balik yang konstruktif.
+- Sambut kontribusi dari pengembang eksternal, jika memungkinkan, dan berikan umpan balik yang konstruktif.
 
-b. Pastikan untuk mencantumkan pedoman kontribusi dan kode etik dalam repositori organisasi.
+- Pastikan untuk mencantumkan pedoman kontribusi dan kode etik dalam repositori organisasi.
 
 <b>Keamanan:</b>
 
-a. Pelihara keamanan repositori organisasi dengan mengaktifkan otentikasi dua faktor (2FA) dan menerapkan praktik-praktik keamanan yang baik.
+- Pelihara keamanan repositori organisasi dengan mengaktifkan otentikasi dua faktor (2FA) dan menerapkan praktik-praktik keamanan yang baik.
 
-b. Segera reaksi terhadap laporan kerentanan dan segera perbaiki masalah keamanan yang teridentifikasi.
+- Segera reaksi terhadap laporan kerentanan dan segera perbaiki masalah keamanan yang teridentifikasi.
 
 <b>Ketertiban dan Kerjasama:</b>
 
-a. Tetap teratur dalam penggunaan label, komentar, dan masalah agar memudahkan kolaborasi dan manajemen proyek.
+- Tetap teratur dalam penggunaan label, komentar, dan masalah agar memudahkan kolaborasi dan manajemen proyek.
 
-b. Jalin hubungan yang baik dengan pengembang lain dan organisasi lain yang mungkin bekerja dengan proyek Anda.
+- Jalin hubungan yang baik dengan pengembang lain dan organisasi lain yang mungkin bekerja dengan proyek Anda.
 
 <b>Pengelolaan Konflik:</b>
 
@@ -86,9 +86,9 @@ Publikasikan kode etik organisasi, serta pedoman kontribusi yang jelas, untuk me
 
 <b>Pengelolaan Repository:</b>
 
-a. Jangan abaikan proses pengelolaan repository seperti mengelola cabang, pull request, dan versi kode.
+- Jangan abaikan proses pengelolaan repository seperti mengelola cabang, pull request, dan versi kode.
 
-b. Berikan izin repository dengan bijaksana dan berdasarkan kebutuhan, dengan memperhatikan prinsip minimal akses.
+- Berikan izin repository dengan bijaksana dan berdasarkan kebutuhan, dengan memperhatikan prinsip minimal akses.
 
 <b>Pemeliharaan Dokumentasi:</b>
 
