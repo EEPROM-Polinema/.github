@@ -11,10 +11,14 @@
 
 Aturan-aturan yang harus diikuti ketika ingin melakukan commit pada project di GitHub EEPROM Polinema : 
 - Isi pesan commit dengan singkat dan efektif.
-- Gunakan awalan `feat:` bila menandakan penambahan fitur baru atau melakukan perubahan signifikan.
-- Gunakan awalan `fix:` bila menandakan perbaikan bug atau kesalahan.
-- Gunakan awalan `docs:` bila menandakan perubahan pada dokumentasi.
-- Gunakan awalan `chore:` bila menandakan penambahan aset atau menghapus sesuatu.
+	- Gunakan awalan `feat:` bila menandakan penambahan fitur baru atau melakukan perubahan signifikan.
+	- Gunakan awalan `fix:` bila menandakan perbaikan bug atau kesalahan.
+	- Gunakan awalan `docs:` bila menandakan perubahan pada dokumentasi.
+	- Gunakan awalan `chore:` bila menandakan penambahan aset atau menghapus sesuatu.
+- Buat branch baru apabila ingin melakukan perubahan pada project.
+	- Bila ingin membuat branch baru, berikan nama branch sesuai dengan fitur yang ditambahkan atau perbaikan yang dilakukan. Contoh : `dev`, `LF-branch`, `Transporter-branch`.
+	- Bila tidak ingin menambahkan branch baru, gunakan branch `master` untuk melakukan perubahan pada project, dengan catatan file sudah dibackup dan sudah dikomunikasikan ke anggota yang lain.
+- Jangan melakukan commit langsung ke branch `master` tanpa persetujuan dari anggota yang lain.
 
 <h2 align='center'>About EEPROM Polinema</h2>
 
@@ -74,11 +78,11 @@ b. Jalin hubungan yang baik dengan pengembang lain dan organisasi lain yang mung
 
 <b>Pengelolaan Konflik:</b>
 
-a. Jika terjadi konflik atau perselisihan antara anggota organisasi, selesaikan secara profesional dan pribadi, dan hindari konfrontasi publik.
+Jika terjadi konflik atau perselisihan antara anggota organisasi, selesaikan secara profesional dan pribadi, dan hindari konfrontasi publik.
 
 <b>Kode Etik dan Pedoman Kontribusi:</b>
 
-a. Publikasikan kode etik organisasi, serta pedoman kontribusi yang jelas, untuk memberikan panduan kepada semua anggota dalam berinteraksi dan berkontribusi dalam proyek.
+Publikasikan kode etik organisasi, serta pedoman kontribusi yang jelas, untuk memberikan panduan kepada semua anggota dalam berinteraksi dan berkontribusi dalam proyek.
 
 <b>Pengelolaan Repository:</b>
 
